@@ -1,0 +1,46 @@
+
+@font-face {
+  font-family:"STALKER";
+  src: url("STALKER.ttf") format("truetype");
+}
+
+
+body { 
+	background-color: black;
+}
+
+
+.center {
+	display: block;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+
+
+.scale_down {object-fit: scale-down;}
+
+
+.text_size { 
+	font-size: 33px;
+}
+
+.text_size1{ 
+	font-size: 25px;
+}
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-hnpa{background-color:#000000;color:#ffffff;border-color:#036400;text-align:center;vertical-align:top}
+.tg .tg-s8l0{background-color:#000000;color:#ffffff;border-color:#036400;text-align:center;vertical-align:top}
+</style>	
+
+
+  background-color: #4CAF50;
+  color: white;
+}
